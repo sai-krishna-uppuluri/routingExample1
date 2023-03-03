@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+
+.navbar-container {
+  height: 20vh;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  padding: 25px;
+}
+
+.logo-container {
+  display: flex;
+  margin: 10px;
+  justify-content: center;
+}
+
+.wave {
+  height: 45px;
+  width: 50px;
+}
+
+.heading {
+  font-family: roboto;
+  font-size: 22px;
+  color: #12022f;
+  font-weight: bold;
+}
+
+.nav-header-container {
+  display: flex;
+  margin: 10px;
+}
+.nav-headers {
+  list-style-type: none;
+  display: flex;
+}
+
+.header-margin {
+  margin-left: 15px;
+}
+
+.cursor {
+  cursor: pointer;
+}

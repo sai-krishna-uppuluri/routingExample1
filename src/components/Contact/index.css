@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+
+.contact {
+  width: 50vw;
+}
