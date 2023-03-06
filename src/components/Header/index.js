@@ -15,7 +15,7 @@ const Header = () => (
     <div className="nav-header-container">
       <ul className="nav-headers">
         <li className="heading header-margin cursor">
-          <Link to="/home">Home</Link>
+          <Link to="/">Home</Link>
         </li>
         <li className="heading header-margin cursor">
           <Link to="/about">About</Link>

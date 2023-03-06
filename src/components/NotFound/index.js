@@ -8,7 +8,7 @@ const NotFound = () => (
       alt="not found"
       className="not-found"
     />
-    <h1> NotFound </h1>
+    <h1> Not Found </h1>
   </div>
 )
 
